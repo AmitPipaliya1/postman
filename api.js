@@ -3,7 +3,7 @@ console.log("hello");
 $(document).ready(function (){
 
 
-    $("#form").click(function(){
+    dalsukh is here
 
       // console.log($("#post").val());
         $.ajax({
